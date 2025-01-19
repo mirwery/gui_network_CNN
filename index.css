@@ -1,0 +1,19 @@
+.btn
+{
+    position: absolute;
+    left: 512px;
+    color: black;
+    font-size: 10px;
+    width: 75px;
+    height: 75px;
+}
+
+.div_digital
+{
+    position: absolute;
+    left: 300px;
+    color: black;
+    font-size: 50px;
+    width: 75px;
+    height: 75px;
+}
